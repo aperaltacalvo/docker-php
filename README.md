@@ -22,5 +22,5 @@ unzip the content
 To access to the web app you only need to access to:
 
 
-http://<ip_server>/docker-php/index.php
+http://<ip_server>:8080/docker-php/index.php
 
