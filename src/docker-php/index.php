@@ -8,7 +8,7 @@
         </header>
     <body>
         <h1>Hello User</h1>
-        <form action="addUsers.php" method="get">
+        <form action="hello.php" method="get">
         	<font face="Comic Sans MS" size="3">
         		   <fieldset>
 				        Nombre del usuario:<br> <input type="text" name="name"><br>
