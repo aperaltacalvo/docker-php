@@ -7,7 +7,7 @@
             <img src="images/lobo.jpg" style="float: right" height="130" width="180"/>
         </header>
     <body>
-        <h1>Add Jira users to group</h1>
+        <h1>Hello User</h1>
         <form action="addUsers.php" method="get">
         	<font face="Comic Sans MS" size="3">
         		   <fieldset>
